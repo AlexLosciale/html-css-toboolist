@@ -93,11 +93,9 @@ p{
 
 .rettangolo{
     display: inline-block;
-    background-color: #46adf2;
-    color: white;
     font-size: 10px;
     padding: 8px;
-    border-radius: 35%;
+    border-radius: 20%;
 }
 
 .sfera2{
@@ -111,47 +109,32 @@ p{
     color: red;
 }
 
-.rettangolo2{
-    display: inline-block;
+.rettangolo-color{
+    background-color: #46adf2;
+    color: white;
+}
+
+.rettangolo-color2{
     background-color: #9665eb;
     color: white;
-    font-size: 10px;
-    padding: 8px;
-    border-radius: 35%;
 }
 
-.rettangolo3{
-    display: inline-block;
+.rettangolo-color3{
     background-color: #63bfa7;
     color: white;
-    font-size: 10px;
-    padding: 8px;
-    border-radius: 35%;
 }
 
-.rettangolo4{
-    display: inline-block;
+.rettangolo-color4{
     background-color: #f29f33;
     color: white;
-    font-size: 10px;
-    padding: 8px;
-    border-radius: 35%;
 }
 
-.rettangolo5{
-    display: inline-block;
+.rettangolo-color5{
     background-color: #d964a0;
     color: white;
-    font-size: 10px;
-    padding: 8px;
-    border-radius: 35%;
 }
 
-.rettangolo6{
-    display: inline-block;
+.rettangolo-color6{
     background-color: #b1c926;
     color: white;
-    font-size: 10px;
-    padding: 8px;
-    border-radius: 35%;
 }
